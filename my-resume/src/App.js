@@ -1,24 +1,21 @@
-import logo from './logo.svg';
+/* eslint-disable jsx-a11y/img-redundant-alt */
+import me from './myFace.jpg';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <article>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+         Elijah linton
       </header>
-    </div>
+
+      <div className='board'>
+        <img className='myPic' alt='a image of a really handsome dude' src={me}></img>
+        <h3>who am i? </h3> 
+
+     </div>
+     <footer>links</footer>
+    </article>
   );
 }
 
