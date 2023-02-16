@@ -42,7 +42,11 @@ function App() {
           </p>
 
           <video id='backend' src={film_fetch} alt='my work' controls></video>
-          <p></p>
+          <p>
+            this a group project known as film fetch with our ability to
+            communicate and work hard mutaully we created front end web page with
+            the use of server side apis html css moment.js
+          </p>
      </div>
 
 
