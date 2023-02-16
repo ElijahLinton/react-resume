@@ -3,9 +3,9 @@ import me from './myFace.jpg';
 import linkedin from './linkedin.png';
 import gitHub from './GitHub.png';
 import './App.css';
- import backend from './backend.gif';
 import progressive from './progressive.mp4';
 import film_fetch from './FilmFetch.mp4';
+import codingTest from './codingTest.mp4';
 
 function App() {
   return (
@@ -47,6 +47,8 @@ function App() {
             communicate and work hard mutaully we created front end web page with
             the use of server side apis html css moment.js
           </p>
+          
+          <video id='codingTest' src={codingTest} controls> </video>
      </div>
 
 
