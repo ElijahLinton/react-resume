@@ -1,5 +1,6 @@
 *{
   color:rgb(216, 239, 255) ;
+  scroll-behavior: smooth;
 }
 body{
 
@@ -61,12 +62,12 @@ footer{
   width:42px;
   height:42px;
 }
-.board{
+#aboutMe{
 
   background-image: linear-gradient(360deg,  rgb(2, 5, 189), rgb(0, 0, 0));
   padding: 0px;
   text-align: center;
-  height: 30em;
+  height: 32em;
   width: 15em;
   border-radius: 50px;
   margin-top: 50px;
@@ -80,13 +81,41 @@ footer{
   background-image: linear-gradient(360deg,  rgb(2, 21, 189), rgb(0, 0, 0));
   padding: 0px;
   text-align: center;
-  height: 100em;
+  height: 105em;
   width: 60em;
   border-radius: 50px;
   margin-top: 50px;
   margin-bottom: 50px;
   align-items:center;
   margin-left: 20em;
+  margin-right: 30em;
+}
+
+#contact{
+    
+  background-image: linear-gradient(360deg,  rgb(2, 5, 189), rgb(0, 0, 0));
+  padding: 0px;
+  text-align: center;
+  height: 20em;
+  width: 35em;
+  border-radius: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  align-items:center;
+  margin-left: 35em;
+  margin-right: 30em;
+}
+#resume{
+  background-image: linear-gradient(360deg,  rgb(2, 5, 189), rgb(0, 0, 0));
+  padding: 0px;
+  text-align: center;
+  height: 20em;
+  width: 35em;
+  border-radius: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  align-items:center;
+  margin-left: 35em;
   margin-right: 30em;
 }
 #backend{
@@ -105,4 +134,15 @@ footer{
 #employee{
   height: 20em;
   width: 40em;
+}
+
+#gmail{
+  height:10em;
+  width:15em;
+  border-radius: 15px;
+}
+#KU{
+  height:10em;
+  width:15em;
+  border-radius: 15px;
 }
