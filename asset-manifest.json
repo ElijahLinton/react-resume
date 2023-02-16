@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-resume/static/css/main.4191cade.css",
+    "main.css": "/react-resume/static/css/main.eb868378.css",
     "main.js": "/react-resume/static/js/main.b9e632ca.js",
     "static/js/787.7c4fc8d6.chunk.js": "/react-resume/static/js/787.7c4fc8d6.chunk.js",
     "static/media/progressive.mp4": "/react-resume/static/media/progressive.675a475abe7176c28027.mp4",
@@ -10,12 +10,12 @@
     "static/media/myFace.jpg": "/react-resume/static/media/myFace.879a02fe7a3b91216b56.jpg",
     "static/media/kansasuniveristy.jpg": "/react-resume/static/media/kansasuniveristy.78549d8f6307b54f8e19.jpg",
     "index.html": "/react-resume/index.html",
-    "main.4191cade.css.map": "/react-resume/static/css/main.4191cade.css.map",
+    "main.eb868378.css.map": "/react-resume/static/css/main.eb868378.css.map",
     "main.b9e632ca.js.map": "/react-resume/static/js/main.b9e632ca.js.map",
     "787.7c4fc8d6.chunk.js.map": "/react-resume/static/js/787.7c4fc8d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4191cade.css",
+    "static/css/main.eb868378.css",
     "static/js/main.b9e632ca.js"
   ]
 }
