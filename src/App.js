@@ -6,6 +6,7 @@ import './App.css';
 import progressive from './progressive.mp4';
 import film_fetch from './FilmFetch.mp4';
 import codingTest from './codingTest.mp4';
+import employees from './employees.mp4';
 
 function App() {
   return (
@@ -49,6 +50,8 @@ function App() {
           </p>
           
           <video id='codingTest' src={codingTest} controls> </video>
+
+          <video id='employee' src={employees} controls></video>
      </div>
 
 
